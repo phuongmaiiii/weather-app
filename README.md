@@ -17,7 +17,7 @@ A Weather App from scratch using React JS with modern tools like Vite, Axios, Ta
 - React Icons
 
 ## Demo 
-You can view a live demo of the app: here
+You can view a live demo of the app: [here](https://phuongmaiiii.github.io/weather-app/) 
 
 ## Screenshots 
 ### Light Mode
